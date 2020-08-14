@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>indi.zhagnweisep</groupId>
+    <groupId>indi.zhangweisep</groupId>
     <artifactId>learning</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <relativePath/> <!-- lookup parent from repository -->

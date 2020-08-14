@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>indi.zhagnweisep</groupId>
+    <groupId>indi.zhangweisep</groupId>
     <artifactId>learning</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <relativePath/> <!-- lookup parent from repository -->
@@ -40,7 +40,7 @@
       <artifactId>druid-spring-boot-starter</artifactId>
       <version>${druid.version}</version>
     </dependency>
-    <!--mybatisplus-->
+    <!--mybatisPlus-->
     <dependency>
       <groupId>com.baomidou</groupId>
       <artifactId>mybatis-plus-boot-starter</artifactId>
@@ -48,7 +48,7 @@
     </dependency>
 
     <!-- redis start -->
-    <!--nosql数据库-->
+    <!--noSql数据库-->
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-data-redis</artifactId>
